@@ -3,4 +3,4 @@
 # 動作環境
 .NET Framework 4.6以降がインストールされたWindows
 # ダウンロード
-[Decimal number converter - v1.0](/Decimal%20number%20converter.exe?raw=true)(2019/12/07)
+[Decimal number converter - v1.0](/Decimal%20number%20converter.exe?raw=true) (2019/12/07 , exe形式)
