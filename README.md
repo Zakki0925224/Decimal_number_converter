@@ -3,12 +3,18 @@
 # 動作環境
 .NET Framework 4.6以降がインストールされたWindows
 # ダウンロード
-[Decimal number converter - v1.3](release/v1.3/Decimal%20number%20converter.exe?raw=true) (2020/01/25 , exe形式)
+[Decimal number converter - v1.4](release/v1.4/Decimal%20number%20converter.exe?raw=true) (2020/02/25 , exe形式)
 ## 旧バージョン
+[Decimal number converter - v1.3](release/v1.3/Decimal%20number%20converter.exe?raw=true) (2020/01/25 , exe形式)<br>
 [Decimal number converter - v1.2](release/v1.2/Decimal%20number%20converter.exe?raw=true) (2020/01/19 , exe形式)<br>
 [Decimal number converter - v1.1](release/v1.1/Decimal%20number%20converter.exe?raw=true) (2019/12/19 , exe形式)<br>
 [Decimal number converter - v1.0](release/v1.0/Decimal%20number%20converter.exe?raw=true) (2019/12/09 , exe形式)
 # 更新履歴
+## v1.4
+・コードの簡略化<br>
+・テキストボックスの入力可能文字数を19文字から20文字へ変更<br>
+・負数入力(64bit精度)に対応（負数も変換できることを初めて知りました。ごめんなさい！）<br>
+・負数の乱数入力に対応（現時点ではint型の範囲）<br>
 ## v1.3
 ・ウィンドウ最前面固定機能の実装（チェックボックスで切り替え、再起動時の設定復元）
 ## v1.2
