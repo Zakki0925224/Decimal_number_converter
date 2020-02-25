@@ -1,4 +1,3 @@
-﻿// 現状:負のdecを入力したときの変換
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
